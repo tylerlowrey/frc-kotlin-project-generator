@@ -1,0 +1,8 @@
+<resources>
+    <string name="project_name">Project Name</string>
+    <string name="project_path">Project Folder Destination</string>
+    <string name="project_path_selection_action">Select Destination Folder for Project</string>
+    <string name="project_path_modify_selection_action">Change Destination Folder for Project</string>
+    <string name="project_name_placeholder">example-project-name</string>
+    <string name="generate_project_action">Generate Project</string>
+</resources>
