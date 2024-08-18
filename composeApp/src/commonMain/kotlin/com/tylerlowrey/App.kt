@@ -78,6 +78,7 @@ fun App() {
                     generatingText = "Generating Project | name=$projectName " +
                             "destination=$projectDestinationPath"
                     generateProject(projectName, projectDestinationPath)
+                    isGenerateButtonEnabled = false
                 },
                 enabled = isGenerateButtonEnabled
             ) {
